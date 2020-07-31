@@ -9,4 +9,4 @@ I've spent many months taking several courses and exploring a few different lang
 In the next few months I'm planning to find ways I can share what I've been learning to help others who are on also this journey. Stay tuned! 😎
 
 
-<span style="display:block;text-align:center">![image](https://github.com/chriswilkinsoncodes/chriswilkinsoncodes/blob/master/rocket.gif)</span>
+![image](https://github.com/chriswilkinsoncodes/chriswilkinsoncodes/blob/master/rocket.gif)
