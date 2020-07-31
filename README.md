@@ -1,3 +1,4 @@
+<body style="background-color:AliceBlue;">
 Hi! I'm chris. 😃
 
 Last year I retired from the financial services industry after 20+ years. Since then I've returned to may childhood passion of coding (I guess we called it programming then, LOL). 
@@ -11,5 +12,4 @@ In the next few months I'm planning to find ways I can share what I've been lear
 <p align="center">
   <img src="https://github.com/chriswilkinsoncodes/chriswilkinsoncodes/blob/master/rocket.gif">
 </p>
-
-
+</body>
