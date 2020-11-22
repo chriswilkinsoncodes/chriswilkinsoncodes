@@ -6,7 +6,7 @@ As best as I can remember from 40 years ago, below is a representation of one of
 
 I've spent many months taking several courses and exploring a few different languages. I'm still a little unclear about which path I want to follow, but I have come to really like Python. 🐍
 
-In the next few months I'm planning to find ways I can share what I've been learning to help others who are on also this journey. Stay tuned! 😎
+In the next few months I'm planning to find ways I can share what I've been learning to help others who are also on this journey. Stay tuned! 😎
 
 <p align="center">
   <img src="https://github.com/chriswilkinsoncodes/chriswilkinsoncodes/blob/master/rocket.gif">
