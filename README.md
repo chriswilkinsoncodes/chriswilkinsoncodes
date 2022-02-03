@@ -1,6 +1,6 @@
 Hi! I'm chris. 😃
 
-Last year I retired from the financial services industry after 20+ years. Since then I've returned to my childhood passion of coding (I guess we called it programming then, LOL). 
+In 2019 I retired from the financial services industry after 20+ years. Since then I've returned to my childhood passion of coding (I guess we called it programming then, LOL). 
 
 As best as I can remember from 40 years ago, below is a representation of one of the first programs I ever wrote, in BASIC, when I was 10. 🚀
 
