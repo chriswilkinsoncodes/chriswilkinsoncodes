@@ -1,13 +1,7 @@
-Hi! I'm chris. 😃
+Hi, I’m Chris.
 
-In 2019 I retired from the financial services industry after 20+ years. Since then I've returned to my childhood passion of coding (I guess we called it programming then, LOL). 
+After 20+ years in financial services, I retired in 2019 and returned to coding as a hobby, reconnecting with an interest that started early and never quite went away. Lately, that hobby has turned into a more active practice, focused on building things that are fun, educational, and occasionally useful to others.
 
-As best as I can remember from 40 years ago, below is a representation of one of the first programs I ever wrote, in BASIC, when I was 10. 🚀
+I’ve explored a range of languages and learning paths, but Python is now my primary focus. I care about clarity, fundamentals, and understanding how systems work, not just getting something to run.
 
-I've spent many months taking several courses and exploring a few different languages. I'm still a little unclear about which path I want to follow, but I have come to really like Python. 🐍
-
-In the next few months I'm planning to find ways I can share what I've been learning to help others who are also on this journey. Stay tuned! 😎
-
-<p align="center">
-  <img src="https://github.com/chriswilkinsoncodes/chriswilkinsoncodes/blob/master/rocket.gif">
-</p>
+This GitHub reflects that ongoing journey.
